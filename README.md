@@ -18,4 +18,11 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Source: https://github.com/phoenixframework/phoenix
  Ejecutar para generar un arbol simple de locaciones
 
+ Probado y ejecutado con 
+ Ubuntu 22
+ elixir 1.15.4 
+ erlang otp 25
+ phoenix 1.7.12
+ posgresql 14
+
  ` Prueba.InventoryBook.Context.KapitreeContext.kapi_tree_setup("locations", "location")`
